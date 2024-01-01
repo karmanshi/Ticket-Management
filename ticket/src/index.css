@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+input, textarea{
+    background: #C4C4C4;
+    color: black;
+    box-shadow: #2e2e2e 4px 4px !important;
+}
+
+.side-nav-list{
+    height: 100vh;
+    background-color: #C4C4C4;
+}
